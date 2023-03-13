@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My first pet was a tiny fish named SHARKY 🦈
 -->
 
-👋 Hi, I’m @my4s, Maryam Yasin
+🍜 I’m @my4s, Maryam Yasin
 
 ✍🏻 I am a student
 
