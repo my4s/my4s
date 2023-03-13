@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m @my4s, Maryam Yasin
-👨‍🎓 I am a student from the UK.
-🔭 I’m currently working on <a href="https://github.com/my4s/Pearl/edit/main/README.md">Pearl</a>
-🌱 I’m currently learning Responsive Web Design
-🌍 My website is: <a href="https://github.com/my4s/Pearl/edit/main/README.md">mhy.yas.im</a>
-⚡ Fun fact: My first pet was a tiny fish named SHARKY 🦈
+/n✍🏻 I am a student
+/n🔭 I’m currently working on <a href="https://github.com/my4s/Pearl/edit/main/README.md">Pearl</a>
+/n🌱 I’m currently learning Responsive Web Design
+/n🌍 My website is: <a href="https://github.com/my4s/Pearl/edit/main/README.md">mhy.yas.im</a>
+/n⚡ Fun fact: My first pet was a tiny fish named SHARKY 🦈
