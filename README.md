@@ -10,4 +10,7 @@
 💬 I sometimes join coding challenges: </br>
     &bull; <a href="https://codier.io/@my4s">Codier - @my4s</a> </br>
     &bull; <a href="https://cssbattle.dev/player/my4s"> CSSBattle - @my4s</a> </br>
+👁‍🗨 You can see my other coding projects on: </br>
+    &bull; <a href="https://replit.com/@my4s">Replit - @my4s</a> </br>
+    &bull; <a href="https://codepen.io/my4s"> Codepen - @my4s</a> </br>
 🍳 Fun fact: I love reading, gaming (ACNH) and coding. 🧸 </br>
