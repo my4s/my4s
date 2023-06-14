@@ -1,36 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-    <body>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="styles.css">
-        <title id="title">Maryam's Personal Website</title>
-        <main id="main" class="shape">
+### Hi there ✨ </br>
 
-        <header>
-          <div id="img-div">
-            <img id="image" class="img" src="https://avatars.githubusercontent.com/u/127297254?s=400&u=11c7233ab0587ef0391fc0b7a398ddec94ec4ef1&v=4" alt="myasin"/>
-          <h2><b>Maryam Yasin</b></h2>
-          <h3><b><i>Web Developer/Designer, Founder of Pearl Milk Tea, Co-Founder of CatPlant</i></b></h3>
-        </div>
-        </header>
-
-          <div id="about" class="about">
-            <p>A passionate web designer developing loads of creative projects. Founder of Pearl Milk Tea, Co-Founder of CatPlant.</p>
-          </div>
-
-          <div id="projects" class="projects">
-            <div class="Registration Form"></div>
-            <div class="Tribute Page"></div>
-          </div>
-
-          <div id="art" class="art">
-          </div>
-
-          <div id="links" class="links">
-          </div>
-
-          <footer></footer>
-        </main>
-    </body>
-</html>
+<!--
+**my4s/my4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+🍜 I’m <a href="https://github.com/my4s">@my4s</a>, Maryam Yasin </br>
+🔭 I'm working on <a href="https://github.com/my4s/Pearl/">Pearl</a> ⚪✨ </br>
+🌱 I'm currently learning Responsive Web Design 💻</br>
+🍵 My website Wisteria: <a href="https://mhy.yas.im/">mhy.yas.im</a> 🖥 </br>
+💬 I sometimes join coding challenges: </br>
+    &bull; <a href="https://codier.io/@my4s">Codier - @my4s</a> </br>
+    &bull; <a href="https://cssbattle.dev/player/my4s"> CSSBattle - @my4s</a> </br>
+👁‍🗨 You can see my other coding projects on: </br>
+    &bull; <a href="https://replit.com/@my4s">Replit - @my4s</a> </br>
+    &bull; <a href="https://codepen.io/my4s"> Codepen - @my4s</a> </br>
+🍳 Fun fact: I love reading, gaming (ACNH) and coding. 🧸 </br>
